@@ -25,8 +25,8 @@ Esta página inclui:
 │ ├── foto1.JPEG
 │ ├── foto2.JPEG
 │ └── ... # Outras imagens do carrossel e fundo
-└── song/ # Pasta com arquivo de música de fundo
-└── song.mp3
+├── song/ # Pasta com arquivo de música de fundo
+│ ├──  song.mp3
 ```
 
 
